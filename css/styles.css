@@ -1,0 +1,71 @@
+.signup{
+    position: absolute;
+    left: 90%;
+}
+.navbar-expand-lg{
+    position: absolute;
+    left: 0;
+    right: 0;
+    z-index: 20;
+}
+body{
+    height: 100%;
+}
+.carousel-inner{
+    height: 500px;
+    width: 1350px;
+    background-position: center;
+    background-size: cover;
+}
+.carousel-caption{
+    font-family: 'Staatliches', cursive;
+    color: ghostwhite
+}
+.carousel{
+    margin-bottom: 20px;
+}
+.container .row{
+    padding-bottom: 10px;
+}
+.col-lg-4{
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    margin-bottom: 00px;
+}
+.divider{
+    margin-top: 50px;
+}
+.col-md-7 > h2 > p{
+    font-size: 20px;
+}
+.col-md-7{
+    padding-top: 100px;
+    text-align: center;
+}
+.content-image{
+    height: 300px;
+}
+.content{
+    padding: 20px;
+}
+
+footer{
+    width: 100%;
+    padding: 10px;
+    padding-left: 35%;
+    padding-bottom: 0;
+    
+}
+.col-md-5 img{
+    border-radius: 60px;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
